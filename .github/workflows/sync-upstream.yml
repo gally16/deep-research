@@ -40,7 +40,7 @@ jobs:
           
           # 添加原始仓库（上游仓库）的远程地址
           # !!! 重要：将下面的 URL 替换为原始仓库的 URL !!!
-          git remote add upstream https://github.com/bia-pain-bache/BPB-Worker-Panel.git
+          git remote add upstream https://github.com/gally16/deep-research.git
           
           # 从上游仓库获取所有分支的最新内容
           git fetch upstream
